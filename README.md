@@ -20,5 +20,3 @@ I'm a data and finance student passionate about transforming data into actionabl
 ![Power BI]
 ![R Studio]
 
-### 🎉 Fun Fact
-Did you know? I can spend hours digging into data... and I’m still excited by the next dataset! 📊😆
